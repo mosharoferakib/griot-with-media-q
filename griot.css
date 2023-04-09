@@ -1,0 +1,19 @@
+
+.copyright{
+    text-align: center;
+    background-color: black;
+    color: aliceblue;
+}
+
+@media (max-width: 390px){
+    .info{
+    display:flex;
+    flex-direction: column;
+   
+    }
+
+}
+
+
+
+
